@@ -27,7 +27,7 @@ e.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         <example.maven-compiler-plugin.version>3.8.1</example.maven-compiler-plugin.version>
         
         <!-- Test dependencies versions -->
-        <example.junit.version>4.12</example.junit.version>
+        <example.junit.version>4.13.1</example.junit.version>
     </properties>
     
     <dependencies>
